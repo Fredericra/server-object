@@ -1,6 +1,6 @@
 import express from 'express';
 import dotenv from 'dotenv';
-import router from '../route';
+import router from '../src/route';
 
 if (process.env.VERCEL !== '1') {
   dotenv.config();
