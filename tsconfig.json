@@ -10,5 +10,5 @@
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true
   },
-  "include": ["api/**/*", "route/**/*"]
+  "include": ["api/**/*", "route/**/*", "DB/**/*", "Cloud/**/*", "Middlewaire/**/*"]
 }
